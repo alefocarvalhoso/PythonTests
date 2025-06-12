@@ -90,7 +90,7 @@ while True:
 
     if player_speed <= 0:
         pygame.quit()
-    if points >= 1:
+    if points >= 23:
         webbrowser.open(url_1)
         webbrowser.open(url_2)
         pygame.quit()
