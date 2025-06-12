@@ -9,7 +9,7 @@ pygame.init()
 
 screen = pygame.display.set_mode((582, 488))
 
-
+#Ideia do jogo: controle o quadrado vermelho até o quadrado azsul, que estará fugindo constantemente, quando quadrado vermelho encostar no azul, aperte a tecla de espaço para marcar um ponto.
 
 points = 0
 
